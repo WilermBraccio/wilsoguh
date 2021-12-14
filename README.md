@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Wilmer Bracho
+- 👀 I’m interested in Back-end Development and Software Architecture
+- 🌱 I’m currently learning .NET Technologies and React
+- 💞️ I’m looking to collaborate on .Net Projects
